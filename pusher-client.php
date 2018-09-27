@@ -62,6 +62,6 @@ $push_test->connect();
 //$push_test->subscribe('live_trades');
 $push_test->subscribe('live_trades_btcusd');
 $push_test->subscribe('live_trades_xrpusd');
-$push_test->listen(60);
+$push_test->listen(61);
 echo 'Finished';
 ?>

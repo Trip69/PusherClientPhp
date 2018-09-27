@@ -1,0 +1,23 @@
+{
+    "name": "trip69/pusher-client-php",
+    "description": "Pusher Client in php",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Trip",
+            "email": "none@nowhere.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {"WebSocket\\": "lib"}
+    },
+    "require-dev": {
+        "textalk/websocket": "dev-master"
+    },
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/Trip69/websocket-php-async"
+        }
+    ]
+}
