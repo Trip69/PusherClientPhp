@@ -1,7 +1,7 @@
 <?php
-namespace Pusher;
+namespace PusherClientPhp;
 
-class pusher_client
+class Client
 {
     private $url=null;
     private $ws=null;
