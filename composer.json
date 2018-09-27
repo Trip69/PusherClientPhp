@@ -9,7 +9,7 @@
         }
     ],
     "autoload": {
-		"psr-4": {"trip69\\Pusher\\": "src"}
+		"psr-4": {"trip69\\pusher\\": "src"}
     },
     "require-dev": {
         "textalk/websocket": "dev-master"
