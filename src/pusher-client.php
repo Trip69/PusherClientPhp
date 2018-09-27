@@ -1,5 +1,5 @@
 <?php
-namespace PusherClientPhp;
+namespace Pusher;
 
 class Client
 {
