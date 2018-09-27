@@ -9,7 +9,7 @@
         }
     ],
     "autoload": {
-		"psr-4": {"pusher-client-php\\": "src/"}
+		"psr-4": {"pusher-client-php\\": "src"}
     },
     "require-dev": {
         "textalk/websocket": "dev-master"
