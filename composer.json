@@ -9,9 +9,9 @@
         }
     ],
     "autoload": {
-		"psr-4": {"Pusher\\": "lib"}
+		"psr-4": {"pusher-client-php\\": "src/"}
     },
-    "require": {
+    "require-dev": {
         "textalk/websocket": "dev-master"
     },
     "repositories": [
