@@ -1,5 +1,5 @@
 <?php
-namespace Pusher;
+namespace trip69\Pusher;
 
 class Client
 {
