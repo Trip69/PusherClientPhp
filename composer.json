@@ -9,9 +9,10 @@
         }
     ],
     "autoload": {
-        "psr-4": {"WebSocket\\": "lib"}
+        "psr-4": {"WebSocket\\": "lib"},
+		"psr-4": {"Pusher\\": "lib"}
     },
-    "require-dev": {
+    "require": {
         "textalk/websocket": "dev-master"
     },
     "repositories": [
