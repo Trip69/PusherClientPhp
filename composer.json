@@ -1,5 +1,5 @@
 {
-    "name": "trip69/PusherClientPhp",
+    "name": "trip69/pusher-client-php",
     "description": "Pusher Client in php",
     "license": "MIT",
     "authors": [
@@ -9,7 +9,7 @@
         }
     ],
     "autoload": {
-		"psr-4": {"PusherClientPhp\\": "src"}
+		"psr-4": {"pusher-client-php\\": "src"}
     },
     "require-dev": {
         "textalk/websocket": "dev-master"
